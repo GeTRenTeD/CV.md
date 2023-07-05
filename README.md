@@ -1,2 +1,1 @@
-# myRep
-Git Basic Aducation
+https://getrented.github.io/CV.md/CV
