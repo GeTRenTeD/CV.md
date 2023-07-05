@@ -2,13 +2,16 @@
 
 ## 1. Name and Surmame
 Aleksey Savelev
+
 ## 2. Contacts
 - Phone: +375 44 576 83 97 
 - Email: alexeysavelev01@gmail.com
 - GitHub: https://github.com/GeTRenTeD
 - VK: https://vk.com/getrented
+
 ## 3. Brief information about yourself
 I am a student in Belarusian-Russian university. I don`t have any expierience in work with production code, but i have worked with some interesting small projects. Now i am working on such a big project in team of 4 mates. I have a lot of hours of working on projects in Adobe programs like Photoshop, Ilustrator and Premiere. I like to create something new and inimitable.
+
 ## 4. Skills
 Hard skills:
   - Programming languages: C#
@@ -99,6 +102,7 @@ namespace DetectionAndConversion
     }
 }
 ```
+
 ## 6. Work experience and training projects
 ### Project 1: Passport scaner
 - Skills used: C# programming, EPSON API
@@ -107,8 +111,10 @@ namespace DetectionAndConversion
 
 ## 7. Courses and trainings
 - Completion of Stepik cousrses "Fundamental JavaScript"
+
 ## 8. Language
 - Russian(native)
 - English(B1)
+
 ## 9. Photo
 ![](/Img/CVphoto.jpg)
